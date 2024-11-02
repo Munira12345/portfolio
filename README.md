@@ -1,16 +1,17 @@
 SOFTWARE DEVELOPER
 Technical Skills: Python, SQL, AWS, PHP, JavaScript, Kotlin, Java, C++, CSS3
+
 Education
-Ph.D., Physics | The University of Texas at Dallas (May 2022)
-M.S., Physics | The University of Texas at Dallas (December 2019)
-B.S., Physics | The University of Texas at Dallas (May 2017)
+Bachelors, Computer Science | Riara University (July 2024)
+Diploma, Highschool | The Maryhill Girls Highschool (Nov 2018)
+
 Work Experience
-Data Scientist @ Toyota Financial Services (June 2022 - Present)
+Android developer Intern @ Safaricom PLC (April 2024 - Oct 2024)
+•	Contributed to backend API design and integration, collaborating with the product team to address customer needs effectively.
+•	Built, deployed a high-traffic Jetpack application and writing unit tests to improve code performance
 
-Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-Data Science Consultant @ Shawhin Talebi Ventures LLC (December 2020 - Present)
-
+Data Programmer and Mentor @ Technovation girls(January 2022 - April 2024)
+Projects 
 Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
 Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 Projects
