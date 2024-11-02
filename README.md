@@ -1,44 +1,72 @@
-SOFTWARE DEVELOPER
+# software Developer
 Technical Skills: Python, SQL, AWS, PHP, JavaScript, Kotlin, Java, C++, CSS3
 
-Education
-Bachelors, Computer Science | Riara University (July 2024)
-Diploma, Highschool | The Maryhill Girls Highschool (Nov 2018)
+## Education
+- Bachelors, Computer Science | Riara University (_July 2024_)
+- Diploma, Highschool | The Maryhill Girls Highschool (_Nov 2018_)
 
-Work Experience
-Android developer Intern @ Safaricom PLC (April 2024 - Oct 2024)
+## Work Experience
+**Android developer Intern @ Safaricom PLC (_April 2024 - Oct 2024_)**
 •	Contributed to backend API design and integration, collaborating with the product team to address customer needs effectively.
 •	Built, deployed a high-traffic Jetpack application and writing unit tests to improve code performance
 
-Data Programmer and Mentor @ Technovation girls(January 2022 - April 2024)
-Projects 
-Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-Projects
-Data-Driven EEG Band Discovery with Decision Trees
-Publication
+**Programmer and Mentor @ Technovation girls(_January 2022 - April 2024_)**
+• Mentored over 60 girls on coding and web design, helping them develop functional prototypes using Figma and wireframing.
+• Guided students in implementing basic JavaScript and PHP concepts, cultivating practical development skills.
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using Python. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+**Software Attache @ Kenya Power and Lightning Company(_Sept 2022 - Dec 2022_)**
+• Assisted in customer software troubleshooting and hardware management.
+• Developed website interfaces using HTML, CSS, and JavaScript, ensuring responsive design and functionality.
+• Supported database interactions and performed basic backend integrations to enhance user data access.
 
-EEG Band Discovery
+#### Projects 
+**Issue Tracker system**  |  ongoing |
+- Developed responsive Kotlin Jetpack UI, view models, and repositories.
+- Automated tests using Git Hub actions workflows
+- Apollo client for filtering in the View Model and Authentication using Token bearing. 
+- Firebase App distribution for tester devices and TestFlight to release the app. 
 
-Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-Publication
+**Payment & Transaction Management software**  |ongoing|
+-	MPESA Daraja API for STK push, Balance checks, and transaction status 
+-	Provider for state management and retrofit for network requests.
+-	Implemented a scalable microservices architecture on AWS
+-	Flutter form Validation for getting transaction details and SQLite for storage locally.
 
-Used Matlab to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+**Mindful quotes program**    |ongoing|
+-	Objective: To allow users view random inspirational quotes, save to favorites and delete. 
+- Technique: Android studio, SQL, Room Database for local storage(caching) backend and analytics.
+- Testing: Junit, screenshot testing
+- Applied UI and UX principles (uncluttered layouts)
+- Language: Kotlin, Java. 
+- Implemented RESTful APIs from Zen quotes, Facebook sharing API 
+-	Offline first Application with quote caching for seamless user experience
+ 
+**TO DO LIST program**   |ongoing|
+Objective: To allow users add to a list their daily tasks, categorize them into types and delete done tasks.
+Technique: Android studio, Firebase for backend and analytics.
+Testing: Junit. 
+Language: Kotlin, Java. 
+Implemented local device storage as well as MYSQL 
+ensure efficient data storage and retrieval 
 
-Bike Study
+**Meeting booking system**  | 5months |
+Objective: To allow students book medical emergency meeting in real time. To allow doctors accept said appointments.
+Technique: Android studio, Firebase for backend and analytics, Dependency Injection, Realm Database
+Testing: Junit. 
+Language: Kotlin, Java. 
+Developed responsive Kotlin and Java front-end
+Built a product that saves and updates students' booking details 
+Wrote clean and scalable code
 
-Talks & Lectures
-Causality: The new science of an old question - GSP Seminar, Fall 2021
+#### Memberships 
+GDG Group: Google developers Group Kenya 
 
-Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
+Technovation Mentors: (2022 - current) 
 
-Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
+Women tech makers: Kenya (2024 - current)
 
-A Brief Introduction to Optimization - GSP Seminar, Fall 2019
+Techsister Kenya: (2023 - current) 
 
-Weeks of Welcome Poster Competition - UTD, Fall 2019
+LinkedIn : https://www.linkedin.com/in/munirangomo/
 
-A Brief Introduction to Networks - GSP Seminar, Spring 2019
 
