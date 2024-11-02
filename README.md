@@ -1,6 +1,5 @@
-# portfolio
-Data Scientist
-Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+SOFTWARE DEVELOPER
+Technical Skills: Python, SQL, AWS, PHP, JavaScript, Kotlin, Java, C++, CSS3
 Education
 Ph.D., Physics | The University of Texas at Dallas (May 2022)
 M.S., Physics | The University of Texas at Dallas (December 2019)
