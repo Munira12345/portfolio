@@ -5,6 +5,13 @@ Technical Skills: Python, SQL, AWS, PHP, JavaScript, Kotlin, Java, C++, CSS3
 - Bachelors, Computer Science | Riara University (_July 2024_)
 - Diploma, Highschool | The Maryhill Girls Highschool (_Nov 2018_)
 
+##  Certifications 
+-	Artificial Intelligence for Practitioners by Ed Cast (2024)
+-	Software Engineering for Professionals by Ed Cast (2024)
+-	Agile development for Practitioners by Skillsoft Precipio (2024)
+-	Cloud Computing for Professionals by Ed Cast (2024)
+  
+
 ## Work Experience
 **Android developer Intern @ Safaricom PLC (_April 2024 - Oct 2024_)**
 •	Contributed to backend API design and integration, collaborating with the product team to address customer needs effectively.
