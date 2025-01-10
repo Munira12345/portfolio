@@ -14,6 +14,12 @@ Technical Skills: Python, SQL, AWS, PHP, JavaScript, Kotlin, Java, C++, CSS3
   
 
 ## Work Experience
+**Mobile Developer and DevOps Lead @ Pesira Limited (_Dec 2024 - Present_)**
+•	DevelopedscriptsthatautomatedDevOpsfunctions,managedtheend-to-endreleasepipelinesandcontinuous
+ integration,achievinga98%crash-freerate
+•	Ledthedevelopmentandmaintenanceofascalable,high-performanceAgritechapplicationforiOSandAndroid,
+ achieving90%codereusabilityacrossAndroidandiOSplatforms
+
 **Android developer Intern @ Safaricom PLC (_April 2024 - Oct 2024_)**
 •	Contributed to backend API design and integration, collaborating with the product team to address customer needs effectively.
 •	Built, deployed a high-traffic Jetpack application and writing unit tests to improve code performance
