@@ -53,7 +53,15 @@ Technical Skills: Python, SQL, AWS, PHP, JavaScript, Kotlin, Java, C++, CSS3
 - Language: Kotlin, Java. 
 - Implemented RESTful APIs from Zen quotes, Facebook sharing API 
 -	Offline first Application with quote caching for seamless user experience
- 
+
+ **Maze Connect app**   |ongoing|
+Objective: To allow users a platform for tech events, where users can discover, subscribe to, and engage with tech-related activities
+Event organizers can upload and manage event details, track RSVPs, and communicate with attendees.
+Technique: Android studio, Express for backend and analytics.
+Testing: Junit. 
+Language: Kotlin, Java. 
+Implemented local device storage as well as MYSQL 
+
 **TO DO LIST program**   |ongoing|
 Objective: To allow users add to a list their daily tasks, categorize them into types and delete done tasks.
 Technique: Android studio, Firebase for backend and analytics.
