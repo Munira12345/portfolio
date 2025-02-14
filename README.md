@@ -18,6 +18,7 @@ Technical Skills: Python, SQL, AWS, PHP, JavaScript, Kotlin, Java, C++, CSS3
  integration,achievinga98%crash-freerate
 •	Ledthedevelopmentandmaintenanceofascalable,high-performanceAgritechapplicationforiOSandAndroid,
  achieving90%codereusabilityacrossAndroidandiOSplatforms
+ 
 
 **Android developer Intern @ Safaricom PLC (_April 2024 - Oct 2024_)**
 •	Contributed to backend API design and integration, collaborating with the product team to address customer needs effectively.
